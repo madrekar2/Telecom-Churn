@@ -1,5 +1,5 @@
 # Telecom-Churn
-![image.png](images/customerchurn_775x425_612.png)
+https://github.com/madrekar2/Telecom-Churn/blob/master/Distr_monthlycharges2.png
 
 
 Telecom churning analysis EDA
