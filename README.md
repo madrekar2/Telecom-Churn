@@ -1,4 +1,7 @@
 # Telecom-Churn
+![image.png](images/customerchurn_775x425_612.png)
+
+
 Telecom churning analysis EDA
 Churn is a one of the biggest problem in the telecom industry which causes revenue loss
 
